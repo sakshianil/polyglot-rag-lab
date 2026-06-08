@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+  <rect width="1400" height="720" fill="#ffffff"/>
+  <text x="16" y="28" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111827">All answers should be structured, readable, and suitable for copying into documentation, reports, or notebooks.</text>
+  <text x="16" y="74" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111827">1. Initialize Vector Database</text>
+  <rect x="16" y="105" width="1368" height="45" rx="5" fill="#f97316"/>
+  <text x="700" y="135" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Initialize Database</text>
+  <rect x="16" y="172" width="1368" height="156" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="198" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Database Status</text>
+  <rect x="30" y="214" width="1338" height="108" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="44" y="258" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111827">✅ Database initialized successfully with 42 documents!</text>
+  <text x="16" y="374" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">2. Ask Questions</text>
+  <rect x="16" y="400" width="1368" height="150" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="431" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Your Question</text>
+  <rect x="30" y="448" width="1338" height="82" rx="3" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="44" y="492" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">What are special German dishes. Give me one recipe too (vegan)</text>
+  <rect x="16" y="570" width="1368" height="46" rx="5" fill="#e5e7eb"/>
+  <text x="700" y="600" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Ask Question</text>
+  <rect x="16" y="636" width="1368" height="74" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="662" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">AI Response</text>
+  <text x="44" y="692" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#111827">The first run shows retrieval behavior and highlights why relevant knowledge base coverage matters.</text>
+</svg>
