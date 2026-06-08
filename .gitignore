@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+
+# Generated vector databases can become large and environment-specific
+data/vector_store/*
+!data/vector_store/.gitkeep
+
+# Optional local uploads
+uploads/
+*.log
