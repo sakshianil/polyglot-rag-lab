@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+  <rect width="1400" height="720" fill="#ffffff"/>
+  <text x="16" y="32" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">1. Initialize Vector Database</text>
+  <rect x="16" y="64" width="1368" height="48" rx="5" fill="#f97316"/>
+  <text x="700" y="95" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Initialize Database</text>
+  <rect x="16" y="132" width="1368" height="118" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="164" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Database Status</text>
+  <rect x="30" y="178" width="1338" height="74" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="44" y="214" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#111827">✅ Database initialized successfully with 42 documents!</text>
+  <text x="16" y="292" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111827">2. Ask Questions</text>
+  <rect x="16" y="318" width="1368" height="138" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">Your Question</text>
+  <rect x="30" y="368" width="1338" height="58" rx="3" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="44" y="404" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">Was sind typische deutsche Gerichte? Nenne mir bitte auch ein Rezept (vegan).</text>
+  <rect x="16" y="472" width="1368" height="46" rx="5" fill="#e5e7eb"/>
+  <text x="700" y="502" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#111827">Ask Question</text>
+  <rect x="16" y="548" width="1368" height="154" rx="4" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="32" y="580" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7280">AI Response</text>
+  <text x="44" y="618" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">Typische deutsche Gerichte umfassen Sauerkraut, Bratwurst, Schnitzel und Kartoffelsalat.</text>
+  <text x="44" y="650" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">Ein einfaches veganes Rezept ist veganer Kartoffelsalat mit Kartoffeln, Zwiebel, Gemüsebrühe,</text>
+  <text x="44" y="678" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111827">Essig, Senf, Öl, Salz, Pfeffer und frischen Kräutern.</text>
+</svg>
