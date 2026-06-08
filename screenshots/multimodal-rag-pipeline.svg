@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <rect x="8" y="8" width="1184" height="414" rx="28" fill="#ffffff" stroke="#111827" stroke-width="2"/>
+  <text x="600" y="58" text-anchor="middle" font-family="Comic Sans MS, Arial, sans-serif" font-size="26" fill="#111827">Multimodal RAG</text>
+  <text x="138" y="80" text-anchor="middle" font-family="Comic Sans MS, Arial, sans-serif" font-size="21" fill="#111827">OCR, image captioning model</text>
+
+  <g font-family="Comic Sans MS, Arial, sans-serif" font-size="18" fill="#111827" text-anchor="middle">
+    <rect x="70" y="115" width="48" height="48" fill="none" stroke="#111827" stroke-width="2" rx="4"/><circle cx="106" cy="129" r="5" fill="none" stroke="#111827"/><path d="M76 154 L91 140 L102 151 L113 143 L116 158" fill="none" stroke="#111827" stroke-width="2"/><text x="94" y="195">Image</text>
+    <path d="M180 118 L217 108 L217 160 L180 170 Z" fill="none" stroke="#111827" stroke-width="2"/><circle cx="175" cy="170" r="10" fill="none" stroke="#111827"/><text x="199" y="195">Audio</text>
+    <path d="M270 108 H310 L326 124 V166 H270 Z" fill="none" stroke="#111827" stroke-width="2"/><path d="M310 108 V124 H326" fill="none" stroke="#111827"/><text x="300" y="195">PDF</text>
+    <rect x="70" y="250" width="55" height="55" rx="5" fill="none" stroke="#111827" stroke-width="2"/><path d="M78 258 H92 V272 H78 Z M103 258 H117 V272 H103 Z M78 283 H92 V297 H78 Z M103 283 H117 V297 H103 Z" fill="none" stroke="#111827"/><text x="98" y="335">Video</text>
+    <path d="M180 247 H226 V308 H180 Z M188 260 H218 M188 274 H218 M188 288 H218" fill="none" stroke="#111827" stroke-width="2"/><text x="203" y="335">Markdown</text>
+    <ellipse cx="305" cy="252" rx="25" ry="8" fill="none" stroke="#111827" stroke-width="2"/><path d="M280 252 V302 C280 313 330 313 330 302 V252" fill="none" stroke="#111827" stroke-width="2"/><ellipse cx="305" cy="302" rx="25" ry="8" fill="none" stroke="#111827" stroke-width="2"/><text x="305" y="335">CSV</text>
+  </g>
+
+  <path d="M365 185 H505" stroke="#111827" stroke-width="4" marker-end="url(#arrow)"/>
+  <g font-family="Comic Sans MS, Arial, sans-serif" fill="#111827">
+    <text x="565" y="158" font-size="20">Convert to text</text>
+    <text x="565" y="184" font-size="17" fill="#2563eb">(SimpleDirectoryReader in</text>
+    <text x="565" y="206" font-size="17" fill="#2563eb">LlamaIndex)</text>
+    <text x="565" y="236" font-size="17">.pdf, .txt, .md, .csv, etc.</text>
+    <text x="565" y="260" font-size="17">.png, .jpeg</text>
+    <text x="565" y="284" font-size="17">.mp3, .mp4</text>
+  </g>
+  <path d="M742 185 H875" stroke="#111827" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="925" y="192" font-family="Comic Sans MS, Arial, sans-serif" font-size="22" fill="#111827">Chunking</text>
+  <path d="M925 210 V290" stroke="#111827" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="910" y="334" font-family="Comic Sans MS, Arial, sans-serif" font-size="21" fill="#111827">Generate embeddings using</text>
+  <text x="915" y="360" font-family="Comic Sans MS, Arial, sans-serif" font-size="21" fill="#111827">text embedding model</text>
+  <path d="M800 342 H610" stroke="#111827" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="405" y="350" font-family="Comic Sans MS, Arial, sans-serif" font-size="22" fill="#111827">Save into vectordb</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111827"/></marker></defs>
+</svg>
