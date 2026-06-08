@@ -1,0 +1,7 @@
+Audio Transcript Sample
+
+Speaker: Today we discuss how multimodal RAG systems can process audio files. A speech-to-text model first converts audio into text. The transcript is then cleaned, chunked, embedded, and stored in a vector database.
+
+Speaker: For a cooking assistant, audio notes could include recipe ideas, ingredient substitutions, and cooking instructions. For example, a user may record: Make a vegan German potato salad using mustard, herbs, vinegar, and vegetable broth.
+
+This transcript is a sample input for parsing and chunking experiments.
