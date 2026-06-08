@@ -1,0 +1,4 @@
+asset_id,modality,caption,possible_query
+image_001,image,"A bowl of German-style potato salad with herbs, mustard dressing, and sliced potatoes.","What vegan German recipe can be made from potatoes?"
+image_002,image,"A diagram showing multimodal RAG where images audio PDFs video markdown and CSV files are converted into text before chunking and embedding.","Explain a multimodal RAG pipeline."
+video_001,video,"A cooking video transcript showing preparation of vegan Kartoffelsalat with vegetable broth and mustard.","How can I make German potato salad vegan?"
