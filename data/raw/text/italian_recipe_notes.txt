@@ -1,0 +1,9 @@
+Italian Recipe Notes
+
+This file is intentionally included as a contrasting sample document. It helps test whether the RAG system retrieves the correct cuisine when the user asks about German food.
+
+Common Italian dishes include pasta, risotto, minestrone, bruschetta, focaccia, gnocchi, and tiramisu.
+
+A vegan minestrone can be prepared with tomatoes, beans, carrots, celery, onion, zucchini, pasta, vegetable broth, and herbs.
+
+This document should not be the main source when the question asks for typical German dishes.
